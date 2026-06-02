@@ -13,7 +13,7 @@ camera.fov          = 10
 # ── Game state ────────────────────────────────────────────────────────────────
 score       = 0
 lives       = 3
-speed       = 3.0
+speed       =   3.0
 spawn_rate  = 0.8
 game_over   = False
 paused      = False
