@@ -5,7 +5,7 @@ app = Ursina()
 
 window.title        = 'Dodge!'
 window.borderless   = False
-window.fullscreen   = False
+window.fullscreen   =    False
 window.size         = (800, 600)
 camera.orthographic = True
 camera.fov          = 10
